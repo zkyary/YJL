@@ -1,4 +1,3 @@
-shadowsocks=us04.pjj.life:12334, method=aes-128-cfb, password=pjj.one, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=42578486:4343c1f5-4873-4ce0-ae30-1797b19a8f5d, obfs=plain, obfs-host=, tag=可用流量:101.74GB 有效期:2121-03-27
 shadowsocks=sk01.pjj.life:12334, method=aes-128-cfb, password=pjj.one, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=42578486:4343c1f5-4873-4ce0-ae30-1797b19a8f5d, obfs=plain, obfs-host=, tag=韩国-01
 shadowsocks=sk02.pjj.life:12334, method=aes-128-cfb, password=pjj.one, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=42578486:4343c1f5-4873-4ce0-ae30-1797b19a8f5d, obfs=plain, obfs-host=, tag=韩国-02
 shadowsocks=sk03.pjj.life:12334, method=aes-128-cfb, password=pjj.one, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=42578486:4343c1f5-4873-4ce0-ae30-1797b19a8f5d, obfs=plain, obfs-host=, tag=韩国-03
@@ -6,9 +5,11 @@ shadowsocks=sk04.pjj.life:12334, method=aes-128-cfb, password=pjj.one, ssr-proto
 shadowsocks=us01.pjj.life:12334, method=aes-128-cfb, password=pjj.one, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=42578486:4343c1f5-4873-4ce0-ae30-1797b19a8f5d, obfs=plain, obfs-host=, tag=美国-01
 shadowsocks=us02.pjj.life:12334, method=aes-128-cfb, password=pjj.one, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=42578486:4343c1f5-4873-4ce0-ae30-1797b19a8f5d, obfs=plain, obfs-host=, tag=美国-02
 shadowsocks=us03.pjj.life:12334, method=aes-128-cfb, password=pjj.one, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=42578486:4343c1f5-4873-4ce0-ae30-1797b19a8f5d, obfs=plain, obfs-host=, tag=美国-03
+shadowsocks=us04.pjj.life:12334, method=aes-128-cfb, password=pjj.one, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=42578486:4343c1f5-4873-4ce0-ae30-1797b19a8f5d, obfs=plain, obfs-host=, tag=美国-04
 shadowsocks=jp01.pjj.life:12334, method=aes-128-cfb, password=pjj.one, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=42578486:4343c1f5-4873-4ce0-ae30-1797b19a8f5d, obfs=plain, obfs-host=, tag=日本-01
 shadowsocks=jp02.pjj.life:12334, method=aes-128-cfb, password=pjj.one, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=42578486:4343c1f5-4873-4ce0-ae30-1797b19a8f5d, obfs=plain, obfs-host=, tag=日本-02
 shadowsocks=jp03.pjj.life:12334, method=aes-128-cfb, password=pjj.one, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=42578486:4343c1f5-4873-4ce0-ae30-1797b19a8f5d, obfs=plain, obfs-host=, tag=日本-03
+shadowsocks=jp04.pjj.life:12334, method=aes-128-cfb, password=pjj.one, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=42578486:4343c1f5-4873-4ce0-ae30-1797b19a8f5d, obfs=plain, obfs-host=, tag=日本-04
 shadowsocks=sg01.pjj.life:12334, method=aes-128-cfb, password=pjj.one, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=42578486:4343c1f5-4873-4ce0-ae30-1797b19a8f5d, obfs=plain, obfs-host=, tag=新加坡-01
 shadowsocks=sg02.pjj.life:12334, method=aes-128-cfb, password=pjj.one, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=42578486:4343c1f5-4873-4ce0-ae30-1797b19a8f5d, obfs=plain, obfs-host=, tag=新加坡-02
 shadowsocks=sg03.pjj.life:12334, method=aes-128-cfb, password=pjj.one, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=42578486:4343c1f5-4873-4ce0-ae30-1797b19a8f5d, obfs=plain, obfs-host=, tag=新加坡-03
