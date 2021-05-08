@@ -1,0 +1,101 @@
+shadowsocks=45.131.68.105:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇷🇺 俄罗斯 GIA 01
+shadowsocks=185.209.85.137:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇷🇺 俄罗斯 GIA 02
+shadowsocks=193.53.126.138:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇷🇺 俄罗斯 RT
+shadowsocks=13.235.70.75:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇮🇳 印度 AWS
+shadowsocks=47.99.140.245:252, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇨🇳 台湾 BGP 01
+shadowsocks=47.99.128.55:252, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇨🇳 台湾 BGP 02
+shadowsocks=120.78.6.211:252, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇨🇳 台湾 BGP 03
+shadowsocks=61.221.57.35:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇨🇳 台湾 CHT 01
+shadowsocks=61.216.166.234:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇨🇳 台湾 CHT 02
+shadowsocks=61.221.155.7:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇨🇳 台湾 CHT 03
+shadowsocks=61.221.155.8:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇨🇳 台湾 CHT 04
+shadowsocks=61.221.155.9:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇨🇳 台湾 CHT 05
+shadowsocks=211.21.92.115:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇨🇳 台湾 CHT 06
+shadowsocks=103.152.221.188:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇨🇳 台湾 NTT
+shadowsocks=seed1.qiangdong.xyz:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇨🇳 台湾 Seed
+shadowsocks=175.98.194.132:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇨🇳 台湾 TFN
+shadowsocks=185.219.133.15:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇹🇷 土耳其 TTNet
+shadowsocks=191.232.171.210:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇧🇷 巴西 Azure
+shadowsocks=47.99.140.245:752, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇩🇪 德国 BGP 01
+shadowsocks=47.99.128.55:752, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇩🇪 德国 BGP 02
+shadowsocks=degia1.qiangdong.xyz:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇩🇪 德国 GIA 01
+shadowsocks=degia2.qiangdong.xyz:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇩🇪 德国 GIA 02
+shadowsocks=95.179.169.11:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇩🇪 德国 NTT
+shadowsocks=a58a7d8c597662772.awsglobalaccelerator.com:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇸🇬 新加坡 AGA 01
+shadowsocks=a440e03791e556e94.awsglobalaccelerator.com:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇸🇬 新加坡 AGA 02
+shadowsocks=47.99.140.245:452, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇸🇬 新加坡 BGP 01
+shadowsocks=47.99.128.55:452, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇸🇬 新加坡 BGP 02
+shadowsocks=120.78.6.211:452, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇸🇬 新加坡 BGP 03
+shadowsocks=103.142.140.199:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇸🇬 新加坡 NTT 01
+shadowsocks=103.142.140.198:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇸🇬 新加坡 NTT 02
+shadowsocks=103.142.140.197:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇸🇬 新加坡 NTT 03
+shadowsocks=103.142.140.178:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇸🇬 新加坡 NTT 04
+shadowsocks=103.142.140.179:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇸🇬 新加坡 NTT 05
+shadowsocks=acf552613ec918b2b.awsglobalaccelerator.com:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇯🇵 日本 AGA 01
+shadowsocks=a0e267725e3594c7c.awsglobalaccelerator.com:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇯🇵 日本 AGA 02
+shadowsocks=47.99.140.245:352, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇯🇵 日本 BGP 01
+shadowsocks=47.99.128.55:352, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇯🇵 日本 BGP 02
+shadowsocks=120.78.6.211:352, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇯🇵 日本 BGP 03
+shadowsocks=198.144.166.57:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇯🇵 日本 IIJ 01
+shadowsocks=198.144.166.48:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇯🇵 日本 IIJ 02
+shadowsocks=198.144.166.45:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇯🇵 日本 IIJ 03
+shadowsocks=180.235.234.68:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇯🇵 日本 KDDI
+shadowsocks=45.76.194.14:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇯🇵 日本 NTT 01
+shadowsocks=45.76.195.78:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇯🇵 日本 NTT 02
+shadowsocks=45.32.252.142:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇯🇵 日本 NTT 03
+shadowsocks=3.104.36.12:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇦🇺 澳大利亚 AWS
+shadowsocks=ctm1.0tk8a3a1q4t94dler.com:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇲🇴 澳门 CTM 01
+shadowsocks=ctm2.0tk8a3a1q4t94dler.com:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇲🇴 澳门 CTM 02
+shadowsocks=13.66.191.60:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇺🇸 美国 Azure
+shadowsocks=47.99.140.245:552, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇺🇸 美国 BGP 01
+shadowsocks=47.99.128.55:552, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇺🇸 美国 BGP 02
+shadowsocks=120.78.6.211:552, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇺🇸 美国 BGP 03
+shadowsocks=154.17.0.20:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇺🇸 美国 GIA
+shadowsocks=136.175.176.161:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇺🇸 美国 NTT 01
+shadowsocks=136.175.176.191:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇺🇸 美国 NTT 02
+shadowsocks=136.175.176.195:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇺🇸 美国 NTT 03
+shadowsocks=47.99.140.245:852, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇬🇧 英国 BGP 01
+shadowsocks=47.99.128.55:852, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇬🇧 英国 BGP 02
+shadowsocks=185.237.99.105:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇬🇧 英国 Cogent
+shadowsocks=45.76.129.28:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇬🇧 英国 NTT
+shadowsocks=120.89.61.199:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇵🇭 菲律宾 ETPI
+shadowsocks=47.99.140.245:652, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇰🇷 韩国 BGP 01
+shadowsocks=47.99.128.55:652, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇰🇷 韩国 BGP 02
+shadowsocks=120.78.6.211:652, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇰🇷 韩国 BGP 03
+shadowsocks=211.43.15.85:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇰🇷 韩国 KT 01
+shadowsocks=211.43.15.86:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇰🇷 韩国 KT 02
+shadowsocks=158.247.203.234:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇰🇷 韩国 NTT 01
+shadowsocks=141.164.53.200:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇰🇷 韩国 NTT 02
+shadowsocks=158.247.220.33:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇰🇷 韩国 NTT 03
+shadowsocks=a89ecb8caac0f653c.awsglobalaccelerator.com:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇭🇰 香港 AGA 01
+shadowsocks=a16673f313915d0ad.awsglobalaccelerator.com:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇭🇰 香港 AGA 02
+shadowsocks=a558ff7d3c778fabc.awsglobalaccelerator.com:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇭🇰 香港 AGA 03
+shadowsocks=a3c12ddf3dff92f0e.awsglobalaccelerator.com:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇭🇰 香港 AGA 04
+shadowsocks=azurehk1.0tk8a3a1q4t94dler.com:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇭🇰 香港 Azure 01
+shadowsocks=azurehk2.0tk8a3a1q4t94dler.com:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇭🇰 香港 Azure 02
+shadowsocks=47.99.140.245:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇭🇰 香港 BGP 01
+shadowsocks=47.99.128.55:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇭🇰 香港 BGP 02
+shadowsocks=120.78.6.211:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇭🇰 香港 BGP 03
+shadowsocks=103.16.27.35:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇭🇰 香港 HE 01
+shadowsocks=103.16.26.129:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇭🇰 香港 HE 02
+shadowsocks=hgc1.qiangdong.xyz:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇭🇰 香港 HGC 01
+shadowsocks=hgc2.qiangdong.xyz:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇭🇰 香港 HGC 02
+shadowsocks=hkbn1.qiangdong.xyz:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇭🇰 香港 HKBN
+shadowsocks=pccw1.qiangdong.xyz:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇭🇰 香港 HKT 01
+shadowsocks=pccw2.qiangdong.xyz:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇭🇰 香港 HKT 02
+shadowsocks=pccw3.qiangdong.xyz:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇭🇰 香港 HKT 03
+shadowsocks=pccw4.qiangdong.xyz:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇭🇰 香港 HKT 04
+shadowsocks=pccw5.qiangdong.xyz:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇭🇰 香港 HKT 05
+shadowsocks=pccw6.qiangdong.xyz:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇭🇰 香港 HKT 06
+shadowsocks=14.17.97.138:47288, method=rc4-md5, password=8PtVqLpKSLES2u8, udp-relay=true, fast-open=true, tag=🇭🇰 香港 IEPL 01
+shadowsocks=14.17.97.140:47288, method=rc4-md5, password=8PtVqLpKSLES2u8, udp-relay=true, fast-open=true, tag=🇭🇰 香港 IEPL 02
+shadowsocks=14.17.97.134:47288, method=rc4-md5, password=8PtVqLpKSLES2u8, udp-relay=true, fast-open=true, tag=🇭🇰 香港 IEPL 03
+shadowsocks=14.17.97.135:47288, method=rc4-md5, password=8PtVqLpKSLES2u8, udp-relay=true, fast-open=true, tag=🇭🇰 香港 IEPL 04
+shadowsocks=103.135.249.22:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇭🇰 香港 NTT 01
+shadowsocks=103.135.249.25:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇭🇰 香港 NTT 02
+shadowsocks=103.135.249.30:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇭🇰 香港 NTT 03
+shadowsocks=103.135.249.35:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇭🇰 香港 NTT 04
+shadowsocks=103.135.248.171:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇭🇰 香港 NTT 05
+shadowsocks=103.138.74.59:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇭🇰 香港 NTT 06
+shadowsocks=103.138.74.69:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇭🇰 香港 NTT 07
+shadowsocks=wtt1.qiangdong.xyz:152, method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=61ff820536.wns.windows.com, udp-relay=false, fast-open=true, tag=🇭🇰 香港 WTT
